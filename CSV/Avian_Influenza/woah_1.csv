@@ -308,3 +308,4 @@ outbreakId,eventId,animalCategory,startDate,endDate,totalCases,isCluster,longitu
 189741,7452,wild,2026-03-19,,1.0,False,12.2221699959533,58.1863499997826,,1,Trollhättan,False,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Phalacrocorax carbo'}]
 191351,7649,wild,2026-06-15,,1.0,False,122.2222,-33.9469,,1,Cape Le Grand National Park,True,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Stercorarius antarcticus'}]
 191366,7652,domestic,2026-06-15,,2800.0,False,-88.053899,14.761853,,1,"SAN PEDRO ZACAPA, SANTA BARBARA",False,,,,Highly path. avian influenza,OIE listed,Aves,[{'spicieName': 'Birds'}]
+191594,7657,wild,2026-06-18,,4.0,False,-84.152623,9.393077,,1,"Playa Espadilla de Manuel Antonio, Quepos",True,,,,empty strain - H5 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Sula nebouxii'}]
