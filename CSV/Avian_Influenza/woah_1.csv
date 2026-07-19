@@ -314,3 +314,5 @@ outbreakId,eventId,animalCategory,startDate,endDate,totalCases,isCluster,longitu
 192069,7681,wild,2026-06-23,2026-07-02,1.0,False,9.74,54.37,,1,Bünsdorf,True,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Anser anser'}]
 192070,7681,wild,2026-06-23,2026-07-02,1.0,False,9.74,54.37,,1,Bünsdorf,True,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Anser anser'}]
 192071,7681,wild,2026-06-23,2026-07-02,1.0,False,9.74,54.37,,1,Bünsdorf,True,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Anser anser'}]
+192654,7710,domestic,2026-07-08,,54.0,False,-88.2617,14.6779,,1,"LA VEGA, SAN FRANCISCO DE OJUERA, SANTA BARBARA",False,,,,HPAI (non-poultry including wild birds),OIE listed,Aves,[{'spicieName': 'Birds'}]
+192652,7709,wild,2026-07-10,,8.0,False,174.879282,-41.229219,,1,Petone beach,True,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Stercorarius antarcticus'}]
