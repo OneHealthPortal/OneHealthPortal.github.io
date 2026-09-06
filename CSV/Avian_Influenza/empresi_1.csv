@@ -3647,18 +3647,21 @@ UNFAO-HQ-56345,Influenza - Avian,H5N1 HPAI,-38.357121,141.605785,194070PORTLAND,
 UNFAO-HQ-57405,Influenza - Avian,H5N1 HPAI,58.80753,11.19474,194560TANUM,Sweden,Europe,2026-08-14,2026-08-16,Domestic - Unspecified bird,WOAH (former OIE),,,Confirmed
 UNFAO-HQ-57884,Influenza - Avian,H5N1 HPAI,51.90253797,4.163822779,194558BRIELLE,Netherlands (Kingdom of the),Europe,2026-08-06,2026-08-14,Wild - Great Crested Grebe:Podiceps Cristatus(Podicipedidae),WOAH (former OIE),,,Confirmed
 UNFAO-HQ-57706,Influenza - Avian,H5N1 HPAI,-23.586129,-46.662298,194667SÃO PAULO,Brazil,Americas,2026-08-04,2026-08-18,Wild - White faced whistiling-duck (dendrocygna viduata),WOAH (former OIE),,,Confirmed
-UNFAO-HQ-58636,Influenza - Avian,H5 HPAI,-41,175,Cape Palliser,New Zealand,Oceania,2026-08-21,2026-08-25,Wild - Grey petrel (Procellaria cinerea),National authorities,,,Confirmed
+UNFAO-HQ-58636,Influenza - Avian,H5 HPAI,-41.0,175.0,Cape Palliser,New Zealand,Oceania,2026-08-21,2026-08-25,Wild - Grey petrel (Procellaria cinerea),National authorities,,,Confirmed
 UNFAO-HQ-58628,Influenza - Avian,H5N1 HPAI,58.86579,9.41631,195010KRAGERØ,Norway,Europe,2026-08-19,2026-08-24,Wild - Swan,WOAH (former OIE),,,Confirmed
 UNFAO-HQ-58453,Influenza - Avian,H5N1 HPAI,58.8897,9.51536,194947KRAGERØ,Norway,Europe,2026-08-18,2026-08-21,Wild - Mute Swan:Cygnus olor(Anatidae),WOAH (former OIE),,,Confirmed
 UNFAO-HQ-58908,Influenza - Avian,H5N1 HPAI,53.34,-3.35,"195036TYN Y MORFA, FLINTSHIRE",the United Kingdom of Great Britain and Northern Ireland,Europe,2026-08-17,2026-08-25,Wild - Canada Goose:Branta canadensis(Anatidae),WOAH (former OIE),,,Confirmed
 UNFAO-HQ-58990,Influenza - Avian,H5N1 HPAI,55.1762,11.6525,195056NÆSTVED,Denmark,Europe,2026-08-17,2026-08-26,Wild - Marsh Harrier,WOAH (former OIE),,,Confirmed
 UNFAO-HQ-58630,Influenza - Avian,H5N1 HPAI,69.32111,16.11694,195009ANDØY,Norway,Europe,2026-08-15,2026-08-24,Wild - Greylag Goose:Anser anser(Anatidae),WOAH (former OIE),,,Confirmed
-UNFAO-HQ-58646,Influenza - Avian,H5 HPAI,-36,139,Goolwa,Australia,Oceania,,2026-08-23,Wild - Gull,National authorities,,,Confirmed
-UNFAO-HQ-58643,Influenza - Avian,H5 HPAI,-36,138,D’Estrees Bay,Australia,Oceania,,2026-08-23,Wild - Penguin,National authorities,,,Confirmed
-UNFAO-HQ-58645,Influenza - Avian,H5 HPAI,-35,138,Christies Beach,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
+UNFAO-HQ-58646,Influenza - Avian,H5 HPAI,-36.0,139.0,Goolwa,Australia,Oceania,,2026-08-23,Wild - Gull,National authorities,,,Confirmed
+UNFAO-HQ-58643,Influenza - Avian,H5 HPAI,-36.0,138.0,D’Estrees Bay,Australia,Oceania,,2026-08-23,Wild - Penguin,National authorities,,,Confirmed
+UNFAO-HQ-58645,Influenza - Avian,H5 HPAI,-35.0,138.0,Christies Beach,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
 UNFAO-HQ-58644,Influenza - Avian,H5 HPAI,-36.73,139.91,West Range,Australia,Oceania,,2026-08-23,Wild - Northern Gannet:Morus bassanus(Sulidae),National authorities,,,Confirmed
-UNFAO-HQ-58649,Influenza - Avian,H5 HPAI,-34,137,Arno Bay,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
-UNFAO-HQ-58650,Influenza - Avian,H5 HPAI,-35,139,Clayton Bay and South Milang,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
-UNFAO-HQ-58638,Influenza - Avian,H5 HPAI,-37,140,Avenue Range and Port MacDonnell,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
-UNFAO-HQ-58633,Influenza - Avian,H5 HPAI,-35.45,138,Normanville,Australia,Oceania,,2026-08-23,Wild - Cormorant,National authorities,,,Confirmed
-UNFAO-HQ-58647,Influenza - Avian,H5 HPAI,-41,146,Burgess Cove,Australia,Oceania,,2026-08-14,Wild - Brown skua (Stercorarius antarcticus),National authorities,,,Confirmed
+UNFAO-HQ-58649,Influenza - Avian,H5 HPAI,-34.0,137.0,Arno Bay,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
+UNFAO-HQ-58650,Influenza - Avian,H5 HPAI,-35.0,139.0,Clayton Bay and South Milang,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
+UNFAO-HQ-58638,Influenza - Avian,H5 HPAI,-37.0,140.0,Avenue Range and Port MacDonnell,Australia,Oceania,,2026-08-23,Wild - Swift tern (Thalasseus bergii),National authorities,,,Confirmed
+UNFAO-HQ-58633,Influenza - Avian,H5 HPAI,-35.45,138.0,Normanville,Australia,Oceania,,2026-08-23,Wild - Cormorant,National authorities,,,Confirmed
+UNFAO-HQ-58647,Influenza - Avian,H5 HPAI,-41.0,146.0,Burgess Cove,Australia,Oceania,,2026-08-14,Wild - Brown skua (Stercorarius antarcticus),National authorities,,,Confirmed
+UNFAO-HQ-59900,Influenza - Avian,H5N1 HPAI,42.2918,24.9466,195694RAKOVSKI,Bulgaria,Europe,2026-08-31,2026-09-02,Domestic - Unspecified bird,WOAH (former OIE),,,Confirmed
+UNFAO-HQ-59599,Influenza - Avian,H5N1 HPAI,47.44186189,-0.090541403,195638MAINE-ET-LOIRE,France,Europe,2026-08-30,2026-09-01,Domestic - Unspecified bird,WOAH (former OIE),,,Confirmed
+UNFAO-HQ-60103,Influenza - Avian,H5N1 HPAI,55.1935,11.7108,195732NÆSTVED,Denmark,Europe,2026-08-24,2026-09-03,Wild - Common pheasant (Phasianus colchicus),WOAH (former OIE),,,Confirmed
