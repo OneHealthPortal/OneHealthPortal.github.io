@@ -322,5 +322,6 @@ outbreakId,eventId,animalCategory,startDate,endDate,totalCases,isCluster,longitu
 195638,7800,domestic,2026-08-30,,,False,-0.0905414027586898,47.441861888438034,,1,Maine-et-Loire,False,,,,clade 2.3.4.4.b - H5N2 (HPAI) - Eurasian,OIE listed,,[{'spicieName': 'Birds'}]
 196106,7819,domestic,2026-08-31,,2.0,False,-73.5266714,-39.9194591,,1,Regíon de Los Ríos ,True,,,,empty strain - H5N1 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Birds'}]
 195936,7810,domestic,2026-09-04,,145.0,False,-57.7714,-34.271,,1,Colonia,True,,,,H5 (HPAI non. Plt),OIE listed,,[{'spicieName': 'Birds'}]
-196022,7800,domestic,2026-09-06,,,False,-0.08216677266073996,47.45429825037243,,1,Maine-et-Loire,False,,,,clade 2.3.4.4.b - H5N2 (HPAI) - Eurasian,OIE listed,,[{'spicieName': 'Birds'}]
+196022,7800,domestic,2026-09-06,,,False,-0.0821667726607399,47.45429825037243,,1,Maine-et-Loire,False,,,,clade 2.3.4.4.b - H5N2 (HPAI) - Eurasian,OIE listed,,[{'spicieName': 'Birds'}]
 196033,7800,domestic,2026-09-07,,,False,0.01258448,47.45114446,,1,Maine-et-Loire,False,,,,clade 2.3.4.4.b - H5N2 (HPAI) - Eurasian,OIE listed,,[{'spicieName': 'Birds'}]
+196415,7847,domestic,2026-09-14,,10.0,False,-58.61182,-34.92122,,1,Carlos Spegazzini,False,,,,HPAI (non-poultry including wild birds),OIE listed,Aves,[{'spicieName': 'Birds'}]
